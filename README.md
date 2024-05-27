@@ -1,0 +1,1 @@
+A bank🏦 management system is a software application designed to help manage the various tasks and activities associated with running a bank. The project will be implemented using core Java programming language, which is a widely used programming language for developing standalone applications.
